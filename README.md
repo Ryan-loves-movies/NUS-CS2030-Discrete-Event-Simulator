@@ -7,7 +7,7 @@ Discrete Event Simulator built and refined throughout Y1S1 of NUS CS2030 to sche
 - In other words, 
 ```
 (no. of servers) (no. of self-check counters) (max queue length) (no. of customers) (prob of server resting)
-(arrival times of customers -- based on number of customers specified already)
+(arrival times of customers -- based on no. of customers specified already)
 (service times of customers)
 ```
 
