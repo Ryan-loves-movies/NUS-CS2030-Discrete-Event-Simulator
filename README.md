@@ -6,7 +6,7 @@ Discrete Event Simulator built and refined throughout Y1S1 of NUS CS2030 to sche
 - User input starts with values representing the number of servers, the number of self-check counters, the maximum queue length, the number of customers and the probability of a server resting. This is followed by the arrival times of the customers. Lastly, a number of service times (could be more than necessary) are provided.
 - In other words, 
 ```
-(number of servers) (number of self-check counters) (maximum queue length) (number of customers) (probability of server resting)
+(no. of servers) (no. of self-check counters) (max queue length) (no. of customers) (prob of server resting)
 (arrival times of customers -- based on number of customers specified already)
 (service times of customers)
 ```
